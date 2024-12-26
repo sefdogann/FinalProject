@@ -6,3 +6,4 @@
 # 📚Çözemediğim problem :
 *📌 MSB4018*  
 
+![Screenshot 2024-12-27 010113](https://github.com/user-attachments/assets/b2d6fd98-a1c7-494d-9970-dfb4700d2ebf)
